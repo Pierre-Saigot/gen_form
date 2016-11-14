@@ -1,0 +1,40 @@
+hr{
+	border-color: black;
+}
+
+a{
+	color: darkred;
+}
+
+.center{
+	text-align: center;
+}
+
+nav a{
+	padding: 25px 25px;
+	outline: none;
+}
+
+a:hover{
+	outline: none;
+}
+
+input{
+	width: 250px;
+	margin-top: 10px;
+	padding: 10px;
+	outline: none;
+	text-align: center;
+}
+
+input[type='submit']{
+	width: 100px;
+}
+
+.blanc{
+	fill: #ddd;
+}
+
+.noir{
+	fill: #222;
+}
